@@ -13,7 +13,7 @@ Created with love by: `lvltcode`
 
 # 01 - Build a Tribute Page
 
-## View online at: [Tribute Page](https://codepen.io/lvltcode/pen/XQOLXX)
+## View online at: [Tribute Page](https://codepen.io/lvltcode/full/XQOLXX)
   
 ## **Objective**: Build a CodePen.io app that is functionally similar to [this page](https://codepen.io/freeCodeCamp/full/zNqgVx).
 
@@ -33,7 +33,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 # 02 - Build a Survey Form
 
-## View online at: [Survey Form](https://codepen.io/lvltcode/pen/wZOoyp)
+## View online at: [Survey Form](https://codepen.io/lvltcode/full/wZOoyp)
   
 ## **Objective**: Build a CodePen.io app that is functionally similar to [this page]( https://codepen.io/freeCodeCamp/full/VPaoNP).
 
