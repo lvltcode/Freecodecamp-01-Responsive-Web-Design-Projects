@@ -33,7 +33,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 # 02 - Build a Survey Form
 
-## View online at: [Tribute Page](https://codepen.io/lvltcode/pen/XQOLXX)
+## View online at: [Survey Form](https://codepen.io/lvltcode/pen/wZOoyp)
   
 ## **Objective**: Build a CodePen.io app that is functionally similar to [this page]( https://codepen.io/freeCodeCamp/full/VPaoNP).
 
@@ -64,8 +64,8 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 | Id | Projects | Time spent | Finished on |
 | --:|:--------:|:---:|:-------------:|
-| 01 | Build a Tribute Page | 1.5 hours | Apr 28 2019 |
-| 02 | Build a Survey Form | 1.5 hours | Apr 28 2019 |
+| 01 | Build a Tribute Page | 1.5 hours | Apr 27 2019 |
+| 02 | Build a Survey Form | 2.0 hours | Apr 28 2019 |
 
 **Describe any challenges encountered while building the web/app**
 
