@@ -1,9 +1,4 @@
----
-title: 'Freecodecamp01 - Responsive Web Design Projects'
-disqus: lvltcode
----
-
-Freecodecamp - 01 - Responsive Web Design Projects
+Responsive Web Design Projects
 ===
 Created with love by: `lvltcode`
 
@@ -11,11 +6,7 @@ Created with love by: `lvltcode`
 
 - [Summary](#summary)
 - [Projects](#projects)
-  - [01 Build A Tribute Page](#01-build-a-tribute-page)
-- [Code of conduct](#code-of-conduct)
-- [Community](#community)
-  - [How to show your progress](#how-to-show-your-progress)
-  - [Team](#team)
+  - [01 Build A Tribute Page](#01---build-a-tribute-page)
 - [License](#license)
 
 # 01 - Build a Tribute Page
