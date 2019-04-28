@@ -1,5 +1,6 @@
 Responsive Web Design Projects
 ===
+![Banner](https://i.imgur.com/oNUw3LF.png)
 Created with love by: `lvltcode`
 
 # Contents
@@ -29,11 +30,14 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 * [x] User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 * [x] User Story #9: The img element should be centered within its parent element.
 
-## Time Spent and Lessons Learned
+# Time Spent and Lessons Learned
+**Time spent of learning: +50 hours**
+**Time spent of doing projects**
+| Id | Projects | Time spent | Finished on |
+| --:|:--------:|:---:|:-------------:|
+| 01 | Build a Tribute Page | 1.5 hours | Apr 28 2019 |
 
-Time spent: +50 hours in learning and 1.5 hours spent in this project.
-
-Describe any challenges encountered while building the app.
+# Describe any challenges encountered while building the web/app.
 
 # License
 
