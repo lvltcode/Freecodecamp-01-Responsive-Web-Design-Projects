@@ -33,11 +33,12 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 # Time Spent and Lessons Learned
 **Time spent of learning: +50 hours**
 **Time spent of doing projects**
+
 | Id | Projects | Time spent | Finished on |
 | --:|:--------:|:---:|:-------------:|
 | 01 | Build a Tribute Page | 1.5 hours | Apr 28 2019 |
 
-# Describe any challenges encountered while building the web/app.
+**Describe any challenges encountered while building the web/app**
 
 # License
 
