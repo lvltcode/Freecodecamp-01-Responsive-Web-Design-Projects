@@ -1,14 +1,23 @@
-# Freecodecamp - 01 - Responsive Web Design Projects - 01 - Build a Tribute Page
+---
+title: 'Freecodecamp01 - Responsive Web Design Projects'
+disqus: lvltcode
+---
 
+Freecodecamp - 01 - Responsive Web Design Projects
+===
 Created with love by: `lvltcode`
+
+[TOC]
+
+## 01 - Build a Tribute Page
+
+### View online at: [Tribute Page](https://codepen.io/lvltcode/pen/XQOLXX)
   
-View online at: [Tribute Page](https://codepen.io/lvltcode/pen/XQOLXX)
-  
-**Objective**: Build a CodePen.io app that is functionally similar to [this page](https://codepen.io/freeCodeCamp/full/zNqgVx).
+### **Objective**: Build a CodePen.io app that is functionally similar to [this page](https://codepen.io/freeCodeCamp/full/zNqgVx).
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
 
-User Stories (**required**) functionalities are completed:
+### User Stories (**required**) functionalities are completed:
 
 * [x] User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 * [x] User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
@@ -20,13 +29,13 @@ User Stories (**required**) functionalities are completed:
 * [x] User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 * [x] User Story #9: The img element should be centered within its parent element.
 
-## Time Spent and Lessons Learned
+### Time Spent and Lessons Learned
 
 Time spent: +50 hours in learning and 1.5 hours spent in this project.
 
 Describe any challenges encountered while building the app.
 
-## License
+### License
 
 https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
