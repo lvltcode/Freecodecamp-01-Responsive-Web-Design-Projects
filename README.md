@@ -58,6 +58,34 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 * [x] **User Story #15**: Inside the form element, I am presented with a `textarea` at the end for additional comments.
 * [x] **User Story #16**: Inside the form element, I am presented with a button with `id="submit"` to submit all my inputs.
 
+# 03 - Build a Product Landing Page
+
+## View online at: [Survey Form](https://codepen.io/lvltcode/full/wZOoyp)
+  
+## **Objective**: Build a CodePen.io app that is functionally similar to [this page]( https://codepen.io/freeCodeCamp/full/RKRbwL).
+
+You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
+
+## User Stories (**required**) functionalities are completed:
+
+* [x] **User Story #1**: My product landing page should have a header element with a corresponding id="header".
+* [x] **User Story #2**: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
+* [x] **User Story #3**: Within the #header element I can see a nav element with a corresponding id="nav-bar".
+* [x] **User Story #4**: I can see at least three clickable elements inside the nav element, each with the class nav-link.
+* [x] **User Story #5**: When I click a .nav-link button in the nav element, I am taken to the corresponding section of the landing page.
+* [x] **User Story #6**: I can watch an embedded product video with id="video".
+* [x] **User Story #7**: My landing page has a form element with a corresponding id="form".
+* [x] **User Story #8**: Within the form, there is an input field with id="email" where I can enter an email address.
+* [x] **User Story #9**: The #email input field should have placeholder text to let the user know what the field is for.
+* [x] **User Story #10**: The #email input field uses HTML5 validation to confirm that the entered text is an email address.
+* [x] **User Story #11**: Within the form, there is a submit input with a corresponding id="submit".
+* [x] **User Story #12**: When I click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit) that confirms the email address was entered and that it posted successfully.
+* [x] **User Story #13**: The navbar should always be at the top of the viewport.
+* [x] **User Story #14**: My product landing page should have at least one media query.
+* [x] **User Story #15**: My product landing page should utilize CSS flexbox at least once.
+
+
+
 # Time Spent and Lessons Learned
 **Time spent of learning: +50 hours**
 **Time spent of doing projects**
@@ -66,6 +94,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 | --:|:--------:|:---:|:-------------:|
 | 01 | Build a Tribute Page | 1.5 hours | Apr 27 2019 |
 | 02 | Build a Survey Form | 2.0 hours | Apr 28 2019 |
+| 03 | Build a Product Landing Page | --- hours | May 14 2019 |
 
 **Describe any challenges encountered while building the web/app**
 
