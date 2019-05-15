@@ -86,7 +86,7 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 # 04 - Technical Documentation Page
 
-## View online at: [Technical Documentation Page](https://codepen.io/lvltcode/pen/qGqNeB)
+## View online at: [Technical Documentation Page](https://codepen.io/lvltcode/full/byqNmL)
   
 ## **Objective**: Build a CodePen.io app that is functionally similar to [this page]( https://codepen.io/freeCodeCamp/full/NdrKKL).
 
@@ -119,7 +119,8 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 | 01 | Build a Tribute Page | 1.5 hours | Apr 27 2019 |
 | 02 | Build a Survey Form | 2.0 hours | Apr 28 2019 |
 | 03 | Build a Product Landing Page | 4 hours | May 14 2019 |
-| 04 | Technical Documentation Page | -- hours | May 15 2019 |
+| 04 | Technical Documentation Page | 2 hours | May 15 2019 |
+| 05 | [Build a Personal Portfolio Webpage](https://lvltcode-portfolio.netlify.com/) | -- hours | May 16 2019 |
 
 **Describe any challenges encountered while building the web/app**
 
